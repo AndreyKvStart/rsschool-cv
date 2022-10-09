@@ -18,3 +18,21 @@ Experience in improvement of production processes.   Experience in modernization
 quality. 20+ years experience of work substantially
 as the Design Engineer with using of 3-D modelling  (mostly SolidWorks).
 I already have some programming skills and I have used programming at my previous jobs. I have decided to become a professional programmer.
+
+## Skills
+ 
+**- C#** <br>
+**- Autolisp** <br>
+**- HTML** <br>
+**- CSS** <br>
+**- JavaScript (Basic)** <br>
+**- PHP (Basic)** <br>
+**- Git, GitHub**
+
+## Code Example
+
+```       
+    function sum(a, b) {
+        return a + b;
+        }
+```
