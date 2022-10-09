@@ -48,3 +48,11 @@ I already have some programming skills and I have used programming at my previou
 **- Special course of 3-D modelling.** <br>
 **- Practical web design – course.** <br>
 **- Certificate SolidWorks Professional – Mechanical Design -C-US8BFR87KZ.**
+
+## Languages
+
+**- English - Upper Intermediate** (I have extended experience (3+ years)
+   	     of communication with native speakers (mostly USA residents) 
+   	      during my previous remote job.<br>
+**- Ukrainian (Native)**<br>
+**- Russian (Native)**
