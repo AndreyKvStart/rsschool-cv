@@ -36,3 +36,15 @@ I already have some programming skills and I have used programming at my previou
         return a + b;
         }
 ```
+## Education
+
+ **Degree Mechanical Engineer.
+     National University of Shipbuilding (NUS) 1993. Nikolaev, Ukraine** <br>
+    Full-time course, machine-building faculty, ship power installations.<br>
+    During studying at University was engaged in scientific work (designing of steam generators with usage of computers).
+
+## SPECIFIC TECHNICAL EXPERTISE/SPECIALIST COURSES
+
+**- Special course of 3-D modelling.** <br>
+**- Practical web design – course.** <br>
+**- Certificate SolidWorks Professional – Mechanical Design -C-US8BFR87KZ.**
