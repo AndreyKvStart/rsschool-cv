@@ -1,0 +1,215 @@
+body {
+    font-family: Roboto, Arial;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-left: 250px;
+    padding-right: 24px;
+    background-color: rgb(248, 248, 248);
+    background: url(../images/background-2.jpg);
+}
+
+body div {
+    padding-left: 15px;
+    padding-right: 10px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    border-color: rgb(6, 95, 212);
+    border-style: solid;
+    border-width: 4px;
+}
+
+.main {
+    margin-bottom: 80px;
+}
+
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-linear-gradient: (90deg, #ffffff, #ed9277);
+    background: linear-gradient(90deg, #ffffff, #ed9277);
+}
+
+header h1,
+h2 {
+    text-align: center;
+}
+
+.contacts,
+.aboutMe,
+.skills,
+.code,
+.experience,
+.projects,
+.education,
+.courses,
+.languages {
+    -webkit-linear-gradient: (90deg, #ffffff, #ed9277);
+    background: linear-gradient(90deg, #ffffff, #ed9277);
+}
+
+.markdown-logo {
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15;
+}
+
+p,
+li {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.contactsHeader {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+
+.sectionHeader {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+pre {
+    width: 280px;
+    height: 80px;
+    background-color: #e7e9eb;
+    text-align: center;
+}
+
+div {
+    font-size: 20x;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* footer */
+
+.footer {
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    background-color: rgb(37, 8, 8);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(41, 174, 214);
+}
+
+.left-section {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #daab6c, #a9f7b3);
+}
+
+.rsschool-logo {
+    height: 40px;
+}
+
+.middle-section {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg, #588bb0, #00d4b6, #fcf837);
+}
+
+.right-section {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #ffffff, #ed9277);
+}
+
+.github {
+    height: 40px;
+}
+
+/* sidebar */
+
+.sidebar {
+    position: fixed;
+    align-self: flex-end;
+    left: 0;
+    bottom: 0;
+    top: 0px;
+    background-color: white;
+    width: 200px;
+    z-index: 100;
+    padding-top: 4px;
+    border-width: 0px;
+}
+
+.sidebar div {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 4px;
+    margin-bottom: 4px;
+    border-width: 0px;
+}
+
+.sidebar-link {
+    height: 40px;
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+    flex-direction: row;
+    cursor: pointer;
+}
+
+.sidebar-link:hover {
+    background-color: rgb(235, 235, 235);
+}
+
+.sidebar-link img {
+    height: 30px;
+    display: flex;
+    margin-bottom: 2px;
+    margin-right: 7px;
+}
+
+::selection {
+    background-color: rgb(230, 226, 13);
+}
+
+a:hover {
+    color: hotpink;
+}
+
+.sidebar-photo {
+    height: 245px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 4px;
+}
+
+.sidebar-photo div {
+    text-align: center;
+}
+
+.sidebar-photo img {
+    height: 190px;
+    border-radius: 95px;
+    margin-left: 5px;
+    margin-top: 7px;
+}
